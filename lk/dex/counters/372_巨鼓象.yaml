@@ -30,7 +30,7 @@ sets:
   - name: 物攻向强化
     type: 攻击
     moves:
-      - {name: 齿轮切开, type: 机械, category: 物理, desc: 本系大威力输出，有概率提升物攻}
+      - {name: 齿轮切开, power: 90, type: 机械, category: 物理, desc: 本系大威力输出，有概率提升物攻}
       - {name: 械斗, type: 机械, category: 物理, desc: 高威力搏命技能，命中不满但收益高}
       - {name: 见招拆招, type: 普通, category: 物理, desc: 技能石，先制+1收割残局}
       - {name: 主轴, type: 机械, category: 变化, desc: 强化速度，弥补低速短板}
