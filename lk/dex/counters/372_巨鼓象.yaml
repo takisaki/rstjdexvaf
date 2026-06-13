@@ -17,7 +17,7 @@ sets:
       - {name: 排气, type: 机械, category: 变化, desc: 回复手段+解状态，大幅提升续航}
       - {name: 杠杆置换, type: 机械, category: 物理, desc: 补盲技能，打击机械系不抵抗的目标}
       - {name: 能量守恒, type: 机械, category: 变化, desc: 强化物防或特防，视对局需要选择}
-    item: 无
+    item: 
     ability: 合拍
     nature: 淘气(+物防 -特攻)
     evs: {hp: 10, attack: 0, defense: 10, sp_def: 10}
@@ -34,7 +34,7 @@ sets:
       - {name: 械斗, type: 机械, category: 物理, desc: 高威力搏命技能，命中不满但收益高}
       - {name: 见招拆招, type: 普通, category: 物理, desc: 技能石，先制+1收割残局}
       - {name: 主轴, type: 机械, category: 变化, desc: 强化速度，弥补低速短板}
-    item: 无
+    item: 
     ability: 合拍
     nature: 固执(+物攻 -特攻)
     evs: {hp: 10, attack: 10, speed: 10}
@@ -45,7 +45,7 @@ sets:
       对操作要求较高，更适合在对方物攻手被处理干净后登场。
 
 counters:
-  - pokemon: 炫光迪迪
+  - jingling: 炫光迪迪
     id: 369
     type: 优势对位
     analysis: |
@@ -53,7 +53,7 @@ counters:
       能有效压制机械系，而且104速度线先手无压力。需要注意巨鼓象
       如果带了「见招拆招」或先制技能，残血迪迪可能会被收掉。
 
-  - pokemon: 水王
+  - jingling: 水王
     id: 245
     type: 优势对位
     analysis: |
@@ -61,7 +61,7 @@ counters:
       但要注意水王自身的物理耐久一般，如果被巨鼓象的「齿轮扭矩」
       打到会很痛，需要合理轮转。
 
-  - pokemon: 火系特攻手
+  - jingling: 火系特攻手
     id: null
     type: 优势对位
     analysis: |
@@ -69,7 +69,7 @@ counters:
       巨鼓象的check。但要注意火系精灵自身的物理耐久通常不高，
       不要给巨鼓象免费上场的机会。
 
-  - pokemon: 物攻手（非地/火）
+  - jingling: 物攻手（非地/火）
     id: null
     type: 劣势对位
     analysis: |
