@@ -5446,5 +5446,203 @@ module.exports = [
     "power": 110,
     "description": "造成魔伤，能量不足时，消耗5%生命代替1能量。",
     "learned_by": ["小丑兔", "小丑公爵", "小丑豆豆"]
+    },
+  {
+    "skill_id": 2001,
+    "name": "愿力冲击-普通",
+    "image_url": "skill_images/垂死反击.webp",
+    "energy_cost": "2",
+    "category": "双攻",
+    "attribute": "普通",
+    "power": 80,
+    "description": "造成物伤/魔伤，取决于物攻魔攻较高的那一项，相同时造成魔伤。应对状态：本次技能威力+150%​。",
+    "learned_by": [""]
+    },
+  {
+    "skill_id": 2002,
+    "name": "愿力冲击-草",
+    "image_url": "skill_images/垂死反击.webp",
+    "energy_cost": "2",
+    "category": "双攻",
+    "attribute": "草",
+    "power": 80,
+    "description": "造成物伤/魔伤，取决于物攻魔攻较高的那一项，相同时造成魔伤。应对状态：本次技能威力+150%​。",
+    "learned_by": [""]
+    },
+  {
+    "skill_id": 2003,
+    "name": "愿力冲击-火",
+    "image_url": "skill_images/垂死反击.webp",
+    "energy_cost": "2",
+    "category": "双攻",
+    "attribute": "火",
+    "power": 80,
+    "description": "造成物伤/魔伤，取决于物攻魔攻较高的那一项，相同时造成魔伤。应对状态：本次技能威力+150%​。",
+    "learned_by": [""]
+    },
+  {
+    "skill_id": 2004,
+    "name": "愿力冲击-水",
+    "image_url": "skill_images/垂死反击.webp",
+    "energy_cost": "2",
+    "category": "双攻",
+    "attribute": "水",
+    "power": 80,
+    "description": "造成物伤/魔伤，取决于物攻魔攻较高的那一项，相同时造成魔伤。应对状态：本次技能威力+150%​。",
+    "learned_by": [""]
+    },
+  {
+    "skill_id": 2005,
+    "name": "愿力冲击-光",
+    "image_url": "skill_images/垂死反击.webp",
+    "energy_cost": "2",
+    "category": "双攻",
+    "attribute": "光",
+    "power": 80,
+    "description": "造成物伤/魔伤，取决于物攻魔攻较高的那一项，相同时造成魔伤。应对状态：本次技能威力+150%​。",
+    "learned_by": [""]
+    },
+  {
+    "skill_id": 2006,
+    "name": "愿力冲击-地",
+    "image_url": "skill_images/垂死反击.webp",
+    "energy_cost": "2",
+    "category": "双攻",
+    "attribute": "地",
+    "power": 80,
+    "description": "造成物伤/魔伤，取决于物攻魔攻较高的那一项，相同时造成魔伤。应对状态：本次技能威力+150%​。",
+    "learned_by": [""]
+    },
+  {
+    "skill_id": 2007,
+    "name": "愿力冲击-冰",
+    "image_url": "skill_images/垂死反击.webp",
+    "energy_cost": "2",
+    "category": "双攻",
+    "attribute": "冰",
+    "power": 80,
+    "description": "造成物伤/魔伤，取决于物攻魔攻较高的那一项，相同时造成魔伤。应对状态：本次技能威力+150%​。",
+    "learned_by": [""]
+    },
+  {
+    "skill_id": 2008,
+    "name": "愿力冲击-龙",
+    "image_url": "skill_images/垂死反击.webp",
+    "energy_cost": "2",
+    "category": "双攻",
+    "attribute": "龙",
+    "power": 80,
+    "description": "造成物伤/魔伤，取决于物攻魔攻较高的那一项，相同时造成魔伤。应对状态：本次技能威力+150%​。",
+    "learned_by": [""]
+    },
+  {
+    "skill_id": 2009,
+    "name": "愿力冲击-电",
+    "image_url": "skill_images/垂死反击.webp",
+    "energy_cost": "2",
+    "category": "双攻",
+    "attribute": "电",
+    "power": 80,
+    "description": "造成物伤/魔伤，取决于物攻魔攻较高的那一项，相同时造成魔伤。应对状态：本次技能威力+150%​。",
+    "learned_by": [""]
+    },
+  {
+    "skill_id": 2010,
+    "name": "愿力冲击-毒",
+    "image_url": "skill_images/垂死反击.webp",
+    "energy_cost": "2",
+    "category": "双攻",
+    "attribute": "毒",
+    "power": 80,
+    "description": "造成物伤/魔伤，取决于物攻魔攻较高的那一项，相同时造成魔伤。应对状态：本次技能威力+150%​。",
+    "learned_by": [""]
+    },
+  {
+    "skill_id": 2011,
+    "name": "愿力冲击-虫",
+    "image_url": "skill_images/垂死反击.webp",
+    "energy_cost": "2",
+    "category": "双攻",
+    "attribute": "虫",
+    "power": 80,
+    "description": "造成物伤/魔伤，取决于物攻魔攻较高的那一项，相同时造成魔伤。应对状态：本次技能威力+150%​。",
+    "learned_by": [""]
+    },
+  {
+    "skill_id": 2012,
+    "name": "愿力冲击-武",
+    "image_url": "skill_images/垂死反击.webp",
+    "energy_cost": "2",
+    "category": "双攻",
+    "attribute": "武",
+    "power": 80,
+    "description": "造成物伤/魔伤，取决于物攻魔攻较高的那一项，相同时造成魔伤。应对状态：本次技能威力+150%​。",
+    "learned_by": [""]
+    },
+  {
+    "skill_id": 2013,
+    "name": "愿力冲击-翼",
+    "image_url": "skill_images/垂死反击.webp",
+    "energy_cost": "2",
+    "category": "双攻",
+    "attribute": "翼",
+    "power": 80,
+    "description": "造成物伤/魔伤，取决于物攻魔攻较高的那一项，相同时造成魔伤。应对状态：本次技能威力+150%​。",
+    "learned_by": [""]
+    },
+  {
+    "skill_id": 2014,
+    "name": "愿力冲击-萌",
+    "image_url": "skill_images/垂死反击.webp",
+    "energy_cost": "2",
+    "category": "双攻",
+    "attribute": "萌",
+    "power": 80,
+    "description": "造成物伤/魔伤，取决于物攻魔攻较高的那一项，相同时造成魔伤。应对状态：本次技能威力+150%​。",
+    "learned_by": [""]
+    },
+  {
+    "skill_id": 2015,
+    "name": "愿力冲击-幽",
+    "image_url": "skill_images/垂死反击.webp",
+    "energy_cost": "2",
+    "category": "双攻",
+    "attribute": "幽",
+    "power": 80,
+    "description": "造成物伤/魔伤，取决于物攻魔攻较高的那一项，相同时造成魔伤。应对状态：本次技能威力+150%​。",
+    "learned_by": [""]
+    },
+  {
+    "skill_id": 2016,
+    "name": "愿力冲击-恶",
+    "image_url": "skill_images/垂死反击.webp",
+    "energy_cost": "2",
+    "category": "双攻",
+    "attribute": "恶",
+    "power": 80,
+    "description": "造成物伤/魔伤，取决于物攻魔攻较高的那一项，相同时造成魔伤。应对状态：本次技能威力+150%​。",
+    "learned_by": [""]
+    },
+  {
+    "skill_id": 2017,
+    "name": "愿力冲击-机械",
+    "image_url": "skill_images/垂死反击.webp",
+    "energy_cost": "2",
+    "category": "双攻",
+    "attribute": "机械",
+    "power": 80,
+    "description": "造成物伤/魔伤，取决于物攻魔攻较高的那一项，相同时造成魔伤。应对状态：本次技能威力+150%​。",
+    "learned_by": [""]
+    },
+  {
+    "skill_id": 2018,
+    "name": "愿力冲击-幻",
+    "image_url": "skill_images/垂死反击.webp",
+    "energy_cost": "2",
+    "category": "双攻",
+    "attribute": "幻",
+    "power": 80,
+    "description": "造成物伤/魔伤，取决于物攻魔攻较高的那一项，相同时造成魔伤。应对状态：本次技能威力+150%​。",
+    "learned_by": [""]
     }
 ];
