@@ -17,10 +17,11 @@ sets:
       - {name: 排气, type: 机械, category: 变化, desc: 回复手段+解状态，大幅提升续航}
       - {name: 杠杆置换, type: 机械, category: 物理, desc: 补盲技能，打击机械系不抵抗的目标}
       - {name: 能量守恒, type: 机械, category: 变化, desc: 强化物防或特防，视对局需要选择}
-    item: 剩饭
+    item: 无
     ability: 合拍
     nature: 淘气(+物防 -特攻)
-    evs: {hp: 252, attack: 0, defense: 252, sp_def: 4}
+    evs: {hp: 10, attack: 0, defense: 10, sp_def: 10}
+    bloodline: 电
     setDetails: |
       最大化物理耐久，配合「合拍」特性可以在猜中对手技能系别/类型/能耗后
       获得物攻物防+20%的恐怖加成。排气提供稳定回复，能量守恒可以选择性强化。
@@ -33,10 +34,11 @@ sets:
       - {name: 械斗, type: 机械, category: 物理, desc: 高威力搏命技能，命中不满但收益高}
       - {name: 见招拆招, type: 普通, category: 物理, desc: 技能石，先制+1收割残局}
       - {name: 主轴, type: 机械, category: 变化, desc: 强化速度，弥补低速短板}
-    item: 生命宝珠
+    item: 无
     ability: 合拍
     nature: 固执(+物攻 -特攻)
-    evs: {hp: 252, attack: 252, speed: 4}
+    evs: {hp: 10, attack: 10, speed: 10}
+    bloodline: 电
     setDetails: |
       舍弃部分耐久换取进攻压制力。齿轮切开在脸好的情况下可以推队，
       主轴强化速度后配合见招拆招收割。但要注意没有回复技能，
