@@ -5448,7 +5448,7 @@ module.exports = [
     "learned_by": ["小丑兔", "小丑公爵", "小丑豆豆"]
     },
   {
-    "skill_id": 2001,
+    "skill_id": 10001,
     "name": "愿力冲击-普通",
     "image_url": "skill_images/垂死反击.webp",
     "energy_cost": "2",
@@ -5459,7 +5459,7 @@ module.exports = [
     "learned_by": [""]
     },
   {
-    "skill_id": 2002,
+    "skill_id": 10002,
     "name": "愿力冲击-草",
     "image_url": "skill_images/垂死反击.webp",
     "energy_cost": "2",
@@ -5470,7 +5470,7 @@ module.exports = [
     "learned_by": [""]
     },
   {
-    "skill_id": 2003,
+    "skill_id": 10003,
     "name": "愿力冲击-火",
     "image_url": "skill_images/垂死反击.webp",
     "energy_cost": "2",
@@ -5481,7 +5481,7 @@ module.exports = [
     "learned_by": [""]
     },
   {
-    "skill_id": 2004,
+    "skill_id": 10004,
     "name": "愿力冲击-水",
     "image_url": "skill_images/垂死反击.webp",
     "energy_cost": "2",
@@ -5492,7 +5492,7 @@ module.exports = [
     "learned_by": [""]
     },
   {
-    "skill_id": 2005,
+    "skill_id": 10005,
     "name": "愿力冲击-光",
     "image_url": "skill_images/垂死反击.webp",
     "energy_cost": "2",
@@ -5503,7 +5503,7 @@ module.exports = [
     "learned_by": [""]
     },
   {
-    "skill_id": 2006,
+    "skill_id": 10006,
     "name": "愿力冲击-地",
     "image_url": "skill_images/垂死反击.webp",
     "energy_cost": "2",
@@ -5514,7 +5514,7 @@ module.exports = [
     "learned_by": [""]
     },
   {
-    "skill_id": 2007,
+    "skill_id": 10007,
     "name": "愿力冲击-冰",
     "image_url": "skill_images/垂死反击.webp",
     "energy_cost": "2",
@@ -5525,7 +5525,7 @@ module.exports = [
     "learned_by": [""]
     },
   {
-    "skill_id": 2008,
+    "skill_id": 10008,
     "name": "愿力冲击-龙",
     "image_url": "skill_images/垂死反击.webp",
     "energy_cost": "2",
@@ -5536,7 +5536,7 @@ module.exports = [
     "learned_by": [""]
     },
   {
-    "skill_id": 2009,
+    "skill_id": 10009,
     "name": "愿力冲击-电",
     "image_url": "skill_images/垂死反击.webp",
     "energy_cost": "2",
@@ -5547,7 +5547,7 @@ module.exports = [
     "learned_by": [""]
     },
   {
-    "skill_id": 2010,
+    "skill_id": 10010,
     "name": "愿力冲击-毒",
     "image_url": "skill_images/垂死反击.webp",
     "energy_cost": "2",
@@ -5558,7 +5558,7 @@ module.exports = [
     "learned_by": [""]
     },
   {
-    "skill_id": 2011,
+    "skill_id": 10011,
     "name": "愿力冲击-虫",
     "image_url": "skill_images/垂死反击.webp",
     "energy_cost": "2",
@@ -5569,7 +5569,7 @@ module.exports = [
     "learned_by": [""]
     },
   {
-    "skill_id": 2012,
+    "skill_id": 10012,
     "name": "愿力冲击-武",
     "image_url": "skill_images/垂死反击.webp",
     "energy_cost": "2",
@@ -5580,7 +5580,7 @@ module.exports = [
     "learned_by": [""]
     },
   {
-    "skill_id": 2013,
+    "skill_id": 10013,
     "name": "愿力冲击-翼",
     "image_url": "skill_images/垂死反击.webp",
     "energy_cost": "2",
@@ -5591,7 +5591,7 @@ module.exports = [
     "learned_by": [""]
     },
   {
-    "skill_id": 2014,
+    "skill_id": 10014,
     "name": "愿力冲击-萌",
     "image_url": "skill_images/垂死反击.webp",
     "energy_cost": "2",
@@ -5602,7 +5602,7 @@ module.exports = [
     "learned_by": [""]
     },
   {
-    "skill_id": 2015,
+    "skill_id": 10015,
     "name": "愿力冲击-幽",
     "image_url": "skill_images/垂死反击.webp",
     "energy_cost": "2",
@@ -5613,7 +5613,7 @@ module.exports = [
     "learned_by": [""]
     },
   {
-    "skill_id": 2016,
+    "skill_id": 10016,
     "name": "愿力冲击-恶",
     "image_url": "skill_images/垂死反击.webp",
     "energy_cost": "2",
@@ -5624,7 +5624,7 @@ module.exports = [
     "learned_by": [""]
     },
   {
-    "skill_id": 2017,
+    "skill_id": 10017,
     "name": "愿力冲击-机械",
     "image_url": "skill_images/垂死反击.webp",
     "energy_cost": "2",
@@ -5635,7 +5635,7 @@ module.exports = [
     "learned_by": [""]
     },
   {
-    "skill_id": 2018,
+    "skill_id": 10018,
     "name": "愿力冲击-幻",
     "image_url": "skill_images/垂死反击.webp",
     "energy_cost": "2",
