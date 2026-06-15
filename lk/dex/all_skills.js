@@ -5450,7 +5450,7 @@ module.exports = [
   {
     "skill_id": 10001,
     "name": "愿力冲击-普通",
-    "image_url": "skill_images/垂死反击.webp",
+    "image_url": "skill_images/愿力冲击-普通.webp",
     "energy_cost": "2",
     "category": "双攻",
     "attribute": "普通",
@@ -5461,7 +5461,7 @@ module.exports = [
   {
     "skill_id": 10002,
     "name": "愿力冲击-草",
-    "image_url": "skill_images/垂死反击.webp",
+    "image_url": "skill_images/愿力冲击-草.webp",
     "energy_cost": "2",
     "category": "双攻",
     "attribute": "草",
@@ -5472,7 +5472,7 @@ module.exports = [
   {
     "skill_id": 10003,
     "name": "愿力冲击-火",
-    "image_url": "skill_images/垂死反击.webp",
+    "image_url": "skill_images/愿力冲击-火.webp",
     "energy_cost": "2",
     "category": "双攻",
     "attribute": "火",
@@ -5483,7 +5483,7 @@ module.exports = [
   {
     "skill_id": 10004,
     "name": "愿力冲击-水",
-    "image_url": "skill_images/垂死反击.webp",
+    "image_url": "skill_images/愿力冲击-水.webp",
     "energy_cost": "2",
     "category": "双攻",
     "attribute": "水",
@@ -5494,7 +5494,7 @@ module.exports = [
   {
     "skill_id": 10005,
     "name": "愿力冲击-光",
-    "image_url": "skill_images/垂死反击.webp",
+    "image_url": "skill_images/愿力冲击-光.webp",
     "energy_cost": "2",
     "category": "双攻",
     "attribute": "光",
@@ -5505,7 +5505,7 @@ module.exports = [
   {
     "skill_id": 10006,
     "name": "愿力冲击-地",
-    "image_url": "skill_images/垂死反击.webp",
+    "image_url": "skill_images/愿力冲击-地.webp",
     "energy_cost": "2",
     "category": "双攻",
     "attribute": "地",
@@ -5516,7 +5516,7 @@ module.exports = [
   {
     "skill_id": 10007,
     "name": "愿力冲击-冰",
-    "image_url": "skill_images/垂死反击.webp",
+    "image_url": "skill_images/愿力冲击-冰.webp",
     "energy_cost": "2",
     "category": "双攻",
     "attribute": "冰",
@@ -5527,7 +5527,7 @@ module.exports = [
   {
     "skill_id": 10008,
     "name": "愿力冲击-龙",
-    "image_url": "skill_images/垂死反击.webp",
+    "image_url": "skill_images/愿力冲击-龙.webp",
     "energy_cost": "2",
     "category": "双攻",
     "attribute": "龙",
@@ -5538,7 +5538,7 @@ module.exports = [
   {
     "skill_id": 10009,
     "name": "愿力冲击-电",
-    "image_url": "skill_images/垂死反击.webp",
+    "image_url": "skill_images/愿力冲击-电.webp",
     "energy_cost": "2",
     "category": "双攻",
     "attribute": "电",
@@ -5549,7 +5549,7 @@ module.exports = [
   {
     "skill_id": 10010,
     "name": "愿力冲击-毒",
-    "image_url": "skill_images/垂死反击.webp",
+    "image_url": "skill_images/愿力冲击-毒.webp",
     "energy_cost": "2",
     "category": "双攻",
     "attribute": "毒",
@@ -5560,7 +5560,7 @@ module.exports = [
   {
     "skill_id": 10011,
     "name": "愿力冲击-虫",
-    "image_url": "skill_images/垂死反击.webp",
+    "image_url": "skill_images/愿力冲击-虫.webp",
     "energy_cost": "2",
     "category": "双攻",
     "attribute": "虫",
@@ -5571,7 +5571,7 @@ module.exports = [
   {
     "skill_id": 10012,
     "name": "愿力冲击-武",
-    "image_url": "skill_images/垂死反击.webp",
+    "image_url": "skill_images/愿力冲击-武.webp",
     "energy_cost": "2",
     "category": "双攻",
     "attribute": "武",
@@ -5582,7 +5582,7 @@ module.exports = [
   {
     "skill_id": 10013,
     "name": "愿力冲击-翼",
-    "image_url": "skill_images/垂死反击.webp",
+    "image_url": "skill_images/愿力冲击-翼.webp",
     "energy_cost": "2",
     "category": "双攻",
     "attribute": "翼",
@@ -5593,7 +5593,7 @@ module.exports = [
   {
     "skill_id": 10014,
     "name": "愿力冲击-萌",
-    "image_url": "skill_images/垂死反击.webp",
+    "image_url": "skill_images/愿力冲击-萌.webp",
     "energy_cost": "2",
     "category": "双攻",
     "attribute": "萌",
@@ -5604,7 +5604,7 @@ module.exports = [
   {
     "skill_id": 10015,
     "name": "愿力冲击-幽",
-    "image_url": "skill_images/垂死反击.webp",
+    "image_url": "skill_images/愿力冲击-幽.webp",
     "energy_cost": "2",
     "category": "双攻",
     "attribute": "幽",
@@ -5615,7 +5615,7 @@ module.exports = [
   {
     "skill_id": 10016,
     "name": "愿力冲击-恶",
-    "image_url": "skill_images/垂死反击.webp",
+    "image_url": "skill_images/愿力冲击-恶.webp",
     "energy_cost": "2",
     "category": "双攻",
     "attribute": "恶",
@@ -5626,7 +5626,7 @@ module.exports = [
   {
     "skill_id": 10017,
     "name": "愿力冲击-机械",
-    "image_url": "skill_images/垂死反击.webp",
+    "image_url": "skill_images/愿力冲击-机械.webp",
     "energy_cost": "2",
     "category": "双攻",
     "attribute": "机械",
@@ -5637,7 +5637,7 @@ module.exports = [
   {
     "skill_id": 10018,
     "name": "愿力冲击-幻",
-    "image_url": "skill_images/垂死反击.webp",
+    "image_url": "skill_images/愿力冲击-幻.webp",
     "energy_cost": "2",
     "category": "双攻",
     "attribute": "幻",
