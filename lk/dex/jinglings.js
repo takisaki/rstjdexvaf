@@ -14339,7 +14339,7 @@ module.exports = [
     "bloodline": ["星星撞击", "蜡质膜", "火焰护盾", "水泡盾", "透射", "械斗", "跺地", "雪替身", "升龙咆哮", "集中", "溃烂触碰", "噬心", "反击拳", "羽翼庇护", "碰爪", "虚化", "等价交换", "冥想"],
     "eggGroups": [1, 12],
     "eggSize": [0, 0],
-    "eggWeight": null,
+    "eggWeight": [0, 0],
     "dif_img": "/dif_sprites/猴麦仔异色S2.webp"
   },
   {
@@ -14399,7 +14399,7 @@ module.exports = [
     "bloodline": ["休息回复", "徒长", "引燃", "蓄水", "虹光冲击", "金属噪音", "扬沙", "霜降", "升龙咆哮", "麻痹", "毒孢子", "假寐", "贯手", "羽化加速", "碰爪", "灵媒", "贪婪", "超维投射"],
     "eggGroups": [9],
     "eggSize": [0, 0],
-    "eggWeight": null,
+    "eggWeight": [0, 0],
     "dif_img": "/dif_sprites/加油海葵异色S2.webp"
   },
   {
@@ -14489,7 +14489,7 @@ module.exports = [
     "bloodline": ["星星撞击", "徒长", "引燃", "蓄水", "虹光冲击", "金属噪音", "扬沙", "霜降", "升龙咆哮", "麻痹", "溃烂触碰", "假寐", "贯手", "羽化加速", "甜心续航", "灵媒", "恶能量", "超维投射"],
     "eggGroups": [2],
     "eggSize": [0, 0],
-    "eggWeight": null,
+    "eggWeight": [0, 0],
     "dif_img": "/dif_sprites/小丑豆豆异色S2.webp"
   },
   {
@@ -14579,7 +14579,7 @@ module.exports = [
     "bloodline": ["休息回复", "徒长", "火焰箭", "蓄水", "透射", "金属噪音", "泥浆铠甲", "霜降", "升龙咆哮", "麻痹", "溃烂触碰", "假寐", "化劲", "羽化加速", "甜心续航", "灵媒", "恶能量", "超维投射"],
     "eggGroups": [4, 12],
     "eggSize": [0, 0],
-    "eggWeight": null,
+    "eggWeight": [0, 0],
     "dif_img": "/dif_sprites/烟花团异色S2.webp"
   },
   {
@@ -14639,7 +14639,7 @@ module.exports = [
     "bloodline": ["休息回复", "徒长", "火焰箭", "蓄水", "透射", "金属噪音", "跺地", "霜降", "升龙咆哮", "麻痹", "毒孢子", "假寐", "化劲", "羽化加速", "甜心续航", "灵媒", "恶能量", "超维投射"],
     "eggGroups": [9],
     "eggSize": [0, 0],
-    "eggWeight": null,
+    "eggWeight": [0, 0],
     "dif_img": "/dif_sprites/咕咕帽异色S2.webp"
   },
   {
@@ -14699,7 +14699,7 @@ module.exports = [
     "bloodline": ["休息回复", "徒长", "引燃", "蓄水", "虹光冲击", "金属噪音", "扬沙", "霜降", "升龙咆哮", "球状闪电", "毒孢子", "假寐", "贯手", "羽化加速", "甜心续航", "灵媒", "贪婪", "超维投射"],
     "eggGroups": [1, 8],
     "eggSize": [0, 0],
-    "eggWeight": null,
+    "eggWeight": [0, 0],
     "dif_img": "/dif_sprites/炫光迪迪异色S2.webp"
   },
   {
@@ -14759,7 +14759,7 @@ module.exports = [
     "bloodline": ["休息回复", "徒长", "火焰箭", "蓄水", "透射", "金属噪音", "扬沙", "霜降", "升龙咆哮", "麻痹", "毒孢子", "假寐", "化劲", "羽化加速", "甜心续航", "灵媒", "诋毁", "星云漩涡"],
     "eggGroups": [1, 12],
     "eggSize": [0, 0],
-    "eggWeight": null,
+    "eggWeight": [0, 0],
     "dif_img": "/dif_sprites/小鼓象异色S2.webp"
   },
   {
@@ -14819,7 +14819,7 @@ module.exports = [
     "bloodline": ["休息回复", "徒长", "引燃", "蓄水", "虹光冲击", "啮合传递", "泥浆铠甲", "霜降", "升龙咆哮", "麻痹", "毒孢子", "假寐", "化劲", "羽化加速", "甜心续航", "勾魂", "贪婪", "念力膨胀"],
     "eggGroups": [2],
     "eggSize": [0, 0],
-    "eggWeight": null,
+    "eggWeight": [0, 0],
     "dif_img": "/dif_sprites/牵线木偶异色S2.webp"
   },
   {
