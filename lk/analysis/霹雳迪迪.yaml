@@ -1,28 +1,28 @@
 id: 369
 formes: 1
-name: 炫光迪迪
-tier: 功能测试中
+name: 霹雳迪迪
+tier: OU
 
 overview: |
-  功能测试中, 内容为AI胡编乱造, 炫光迪迪是高速特攻手的代表，111特攻+104速度配上电+光的优秀打击面，
+  功能测试中, 内容为AI胡编乱造, 炫光迪迪是高速特攻手的代表，139特攻+130速度配上电+光的优秀打击面，
   让它在中速环境中有着极强的压制力。特性「安可」让它在使用光系技能后
-  能安全返场，操作空间很大。缺点是物防只有52点，非常怕先制物攻手和钉子。
+  能安全返场，操作空间很大。缺点是物防只有65点，非常怕草系物攻手。
 
 sets:
-  - name: 四攻炮台
+  - name: 双攻炮台
     type: 攻击
     moves:
-      - {name: 电离爆破, type: 电, category: 特殊, desc: 本系高威力电系输出}
-      - {name: 色散, type: 光, category: 特殊, desc: 本系光系输出，触发安可特性返场}
-      - {name: 双联脉冲, type: 电, category: 特殊, desc: 连续攻击，有机会突破气腰}
-      - {name: 落雷, type: 电, category: 特殊, desc: 电系补盲，配合电磁偏转或队友的麻痹}
-    item: 生命宝珠
+      - {name: 放晴, type: 光, category: 变化, desc: 本系高威力电系输出}
+      - {name: 色散, type: 光, category: 魔法, desc: 本系光系输出，触发安可特性返场}
+      - {name: 落雷, type: 电, category: 魔法, desc: 连续攻击，有机会突破气腰}
+      - {name: 电磁偏转, type: 电, category: 防御, desc: 电系补盲，配合电磁偏转或队友的麻痹}
     ability: 安可
     nature: 胆小(+速度 -物攻)
-    evs: {sp_atk: 252, speed: 252, hp: 4}
+    evs: {hp: 10, sp_atk: 10, speed: 10}
+    bloodline: 火
     setDetails: |
       经典的极速高攻配置。利用速度线压制中速精灵，色散后触发安可
-      安全返场形成循环压迫。要注意物防端非常脆弱，任何先制物攻
+      安全返场形成循环压迫。要注意物防端非常脆弱，任何本系克制物攻
       都能轻易击杀。
 
   - name: 干扰辅助
