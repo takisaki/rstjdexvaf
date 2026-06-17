@@ -4714,7 +4714,7 @@ module.exports = [
   },
   {
     "id": 78,
-    "formes": 3,
+    "formes": 4,
     "name": "千棘海针（磨损的样子）",
     "type1": "水",
     "type2": "毒",
