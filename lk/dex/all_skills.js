@@ -5168,7 +5168,7 @@ module.exports = [
     "energy_cost": "7",
     "category": "物攻",
     "attribute": "翼",
-    "power": 170,
+    "power": 105,
     "description": "造成物伤，先手+1。",
     "learned_by": ["凡雀", "凡鹰", "学院呱呱", "小鹬", "紫翎鹰", "蒲公英", "蒲公英娃娃", "鄙目鹬", "高脚鹬"]
     },
