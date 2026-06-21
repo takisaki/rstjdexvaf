@@ -11422,5 +11422,20 @@
       "小丑公爵",
       "小丑豆豆"
     ]
+  },
+  {
+    "skill_id": 502,
+    "name": "疾风涡轮",
+    "image_url": "skill_images/疾风涡轮.webp",
+    "energy_cost": "0",
+    "category": "物攻",
+    "attribute": "翼",
+    "power": 100,
+    "description": "造成物伤，无法主动使用，在使用3次翼系技能后会自动使用此技能。",
+    "learned_by": [
+      "凡雀",
+      "紫翎鹰",
+      "凡鹰"
+    ]
   }
 ]
