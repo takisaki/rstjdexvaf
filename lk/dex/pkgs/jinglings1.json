@@ -6991,13 +6991,13 @@
     "type1": "光",
     "type2": "地",
     "stats": {
-      "hp": 93,
-      "attack": 96,
+      "hp": 89,
+      "attack": 97,
       "sp_atk": 101,
-      "defense": 124,
-      "sp_def": 91,
+      "defense": 133,
+      "sp_def": 88,
       "speed": 65,
-      "total": 570
+      "total": 573
     },
     "abilities": "完全偏振：抵抗自己携带技能系别的攻击伤害。",
     "size_weight": "1.69~1.91|84.4~110.2",
@@ -7074,13 +7074,13 @@
     "type1": "光",
     "type2": "地",
     "stats": {
-      "hp": 93,
-      "attack": 96,
+      "hp": 92,
+      "attack": 101,
       "sp_atk": 101,
       "defense": 124,
-      "sp_def": 91,
+      "sp_def": 88,
       "speed": 65,
-      "total": 570
+      "total": 571
     },
     "abilities": "完全偏振：抵抗自己携带技能系别的攻击伤害。",
     "size_weight": "1.69~1.91|84.4~110.2",
@@ -7157,13 +7157,13 @@
     "type1": "光",
     "type2": "地",
     "stats": {
-      "hp": 93,
-      "attack": 96,
+      "hp": 92,
+      "attack": 97,
       "sp_atk": 101,
-      "defense": 124,
-      "sp_def": 91,
+      "defense": 128,
+      "sp_def": 88,
       "speed": 65,
-      "total": 570
+      "total": 571
     },
     "abilities": "完全偏振：抵抗自己携带技能系别的攻击伤害。",
     "size_weight": "1.69~1.91|84.4~110.2",
@@ -7240,13 +7240,13 @@
     "type1": "光",
     "type2": "地",
     "stats": {
-      "hp": 93,
-      "attack": 96,
-      "sp_atk": 101,
+      "hp": 99,
+      "attack": 97,
+      "sp_atk": 107,
       "defense": 124,
       "sp_def": 91,
       "speed": 65,
-      "total": 570
+      "total": 583
     },
     "abilities": "完全偏振：抵抗自己携带技能系别的攻击伤害。",
     "size_weight": "1.69~1.91|84.4~110.2",
@@ -7323,13 +7323,13 @@
     "type1": "光",
     "type2": "地",
     "stats": {
-      "hp": 93,
-      "attack": 96,
-      "sp_atk": 101,
-      "defense": 124,
-      "sp_def": 91,
-      "speed": 65,
-      "total": 570
+      "hp": 89,
+      "attack": 97,
+      "sp_atk": 102,
+      "defense": 126,
+      "sp_def": 88,
+      "speed": 70,
+      "total": 572
     },
     "abilities": "完全偏振：抵抗自己携带技能系别的攻击伤害。",
     "size_weight": "1.69~1.91|84.4~110.2",
